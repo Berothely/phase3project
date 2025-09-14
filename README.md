@@ -34,21 +34,21 @@ The notebook follows a complete data science workflow:
 •	Use predictive segmentation to guide marketing campaigns.
 •	Improve product bundles and flexible contracts to reduce churn incentives.
 •	Collect customer feedback regularly to adapt strategies.
-________________________________________
+<hr>
 📂 Repository Structure
-├── churnintel.ipynb      # Main Jupyter notebook
-├── README.md             # Project documentation
-├── data/                 # (Optional) dataset storage
-├── models/               # (Optional) saved trained models
-└── reports/              # (Optional) figures, charts, presentations
-________________________________________
+ churnintel.ipynb      # Main Jupyter notebook
+ README.md             # Project documentation
+ data/                 # (Optional) dataset storage
+ models/               # (Optional) saved trained models
+ reports/              # (Optional) figures, charts, presentations
+<hr>
 📌 Tech Stack
 •	Python
 •	scikit-learn – modeling and evaluation
 •	imbalanced-learn – SMOTE for class imbalance
 •	pandas, numpy – data manipulation
 •	matplotlib, seaborn – visualization
-________________________________________
+<hr>
 📈 Future Work
 •	Explore deep learning models (e.g., neural networks).
 •	Integrate real-time churn prediction into a business dashboard.
