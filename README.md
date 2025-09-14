@@ -4,12 +4,12 @@ Customer Churn Prediction
 This project focuses on predicting customer churn for a telecom company.
 Churn — the phenomenon of customers discontinuing a service — is a critical business problem in industries where long-term customer retention drives profitability.
 Using customer behavior and service data, this project applies machine learning techniques to identify customers at risk of leaving, with the goal of supporting proactive retention strategies.
-________________________________________
+<hr>
 🎯 Objectives
 •	Analyze customer data to uncover patterns linked to churn.
 •	Apply and compare machine learning models for churn prediction.
 •	Provide actionable business recommendations to reduce churn.
-________________________________________
+<hr>
 ⚙️ Methodology
 The notebook follows a complete data science workflow:
 1.	Business Understanding – framing churn as a profitability issue.
@@ -19,7 +19,7 @@ The notebook follows a complete data science workflow:
 5.	Hyperparameter Tuning – RandomizedSearchCV with Stratified K-Fold cross-validation.
 6.	Evaluation – accuracy, precision, recall, F1-score, ROC-AUC.
 7.	Interpretation – coefficients (Logistic Regression) and feature importance (Random Forest).
-________________________________________
+<hr>
 
 
 
@@ -27,7 +27,7 @@ ________________________________________
 •	Logistic Regression: provided an interpretable baseline with decent recall.
 •	Random Forest: achieved stronger predictive power and balanced performance across metrics.
 •	Key Features Influencing Churn: contract type, tenure, monthly charges, and service-related attributes.
-________________________________________
+<hr>
 🏢 Business Recommendations
 •	Implement loyalty and retention programs targeting high-risk customers.
 •	Enhance customer service quality and responsiveness.
