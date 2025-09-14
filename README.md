@@ -36,11 +36,11 @@ The notebook follows a complete data science workflow:
 •	Collect customer feedback regularly to adapt strategies.
 <hr>
 📂 Repository Structure
- churnintel.ipynb      # Main Jupyter notebook
- README.md             # Project documentation
- data/                 # (Optional) dataset storage
- models/               # (Optional) saved trained models
- reports/              # (Optional) figures, charts, presentations
+ - <b>churnintel.ipynb<b>      # Main Jupyter notebook<br>
+ <b>README.md<b>             # Project documentation<br>
+ <b>data/<b>                 # (Optional) dataset storage<br>
+ <b>models/<b>               # (Optional) saved trained models<br>
+ <b>reports/<b>              # (Optional) figures, charts, presentations
 <hr>
 📌 Tech Stack
 •	Python
