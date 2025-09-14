@@ -1,4 +1,4 @@
-Customer Churn Prediction
+# <b>Customer Churn Prediction<b>
 <hr>
 📌 Project Overview
 This project focuses on predicting customer churn for a telecom company.
@@ -37,10 +37,10 @@ The notebook follows a complete data science workflow:
 <hr>
 📂 Repository Structure
  - <b>churnintel.ipynb<b>      # Main Jupyter notebook<br>
- <b>README.md<b>             # Project documentation<br>
- <b>data/<b>                 # (Optional) dataset storage<br>
- <b>models/<b>               # (Optional) saved trained models<br>
- <b>reports/<b>              # (Optional) figures, charts, presentations
+ <b>README.md<b>              # Project documentation<br>
+ <b>data/<b>                  # dataset storage<br>
+ <b>models/<b>                # (Soon) saved trained models<br>
+ 
 <hr>
 📌 Tech Stack
 •	Python
